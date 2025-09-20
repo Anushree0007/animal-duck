@@ -1,10 +1,10 @@
 
 function setup(){
   // create Black Cat
-  let duckduck = new Animal 
+  let blackcat = new Animal 
   
   ("duck", "Lanny", "Quack! Quack!")
   //let them talk
-  duckduck.talk();
-  duckduck.expressYourself();
+  blackcat.talk();
+  blackcat.expressYourself();
 }
